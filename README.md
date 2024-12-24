@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a modern Pastebin clone built with Next.js and Supabase. It features a sleek, SaaS-like user interface powered by [shadcn/ui](https://ui.shadcn.dev/) and provides functionality for creating, sharing, and managing text pastes. User authentication and paste management are seamlessly integrated with Supabase, ensuring a secure and efficient experience.
+This project is a modern Pastebin clone built with Next.js and Supabase. It features a clean, user-friendly interface and provides functionality for creating, sharing, and managing text pastes. User authentication and paste management are seamlessly integrated with Supabase, ensuring a secure and efficient experience.
 
 ## Features
 
@@ -23,7 +23,7 @@ This project is a modern Pastebin clone built with Next.js and Supabase. It feat
 
 ## Tech Stack
 
-- **Frontend**: Next.js with shadcn/ui for a modern, responsive UI.
+- **Frontend**: Next.js for the frontend and Tailwind CSS for styling.
 - **Backend**: Supabase for database, authentication, and API management.
 - **Styling**: Tailwind CSS integrated with shadcn/ui.
 - **State Management**: React hooks and Supabase client integration.
